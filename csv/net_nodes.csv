@@ -1,0 +1,76 @@
+dbi,p_node,hormone,len_i,degree,color,degree-strength,label,node_bet_cent,module-louvain,module-infomap,class,rank_degree
+DB00252,0.2,False,42794,24,#976fb0,6.51,Phenytoin,0.3,2,1,CNS agents,1
+DB00564,0.18,False,87950,18,#976fb0,4.84,Carbamazepine,0.2,0,2,CNS agents,2
+DB01174,0.05,False,13638,15,#976fb0,2.17,Phenobarbital,0.28,2,1,CNS agents,3
+DB00571,0.1,False,109099,14,#ee262c,4.81,Propranolol,0.06,4,0,Cardiovascular agents,4
+DB00682,0.13,False,57959,14,#f498b7,3.31,Warfarin,0.17,1,3,Coagulation modifiers,4
+DB01223,0.01,False,4666,10,#4da9df,1.93,Aminophylline,0.23,4,0,Respiratory agents,6
+DB00472,0.06,False,270974,10,#c059a2,3.41,Fluoxetine,0.02,0,2,Psychotherapeutic agents,6
+DB00196,0.11,False,85709,10,#66c059,1.74,Fluconazole,0.09,0,2,Anti-infectives,6
+DB01356,0.17,False,56954,9,#c059a2,2.05,Lithium,0.13,0,4,Psychotherapeutic agents,9
+DB00977,0.04,True,33416,9,#f2ea25,1.78,Ethinyl Estradiol,0.03,2,1,Hormones,9
+DB00390,0.24,False,81457,9,#ee262c,3.7,Digoxin,0.03,1,3,Cardiovascular agents,9
+DB01288,0.01,False,2297,8,#4da9df,0.81,Fenoterol,0.13,0,2,Respiratory agents,12
+DB00335,0.06,False,411888,8,#ee262c,2.22,Atenolol,0.05,4,0,Cardiovascular agents,12
+DB00254,0.04,False,376,8,#66c059,1.39,Doxycycline,0.02,2,1,Anti-infectives,12
+DB01001,0.03,False,23192,7,#4da9df,1.53,Salbutamol,0.0,0,0,Respiratory agents,15
+DB00945,0.07,False,531427,7,#976fb0,1.57,ASA,0.01,4,0,CNS agents,15
+DB00968,0.06,False,5383,7,#ee262c,2.3,Methyldopa,0.01,3,0,Cardiovascular agents,15
+DB01050,0.05,False,158645,7,#976fb0,1.28,Ibuprofen,0.06,4,0,CNS agents,15
+DB00635,0.03,False,48240,7,#f2ea25,0.96,Prednisone,0.02,2,1,Hormones,15
+DB00373,0.06,False,5720,7,#ee262c,1.11,Timolol,0.16,4,0,Cardiovascular agents,15
+DB00502,0.2,False,162446,6,#c059a2,2.32,Haloperidol,0.03,0,4,Psychotherapeutic agents,21
+DB00860,0.0,False,387,6,#f2ea25,0.54,Prednisolone,0.03,2,1,Hormones,21
+DB00343,0.13,False,102688,6,#ee262c,2.66,Diltiazem,0.03,1,5,Cardiovascular agents,21
+DB01136,0.07,False,27661,6,#ee262c,1.7,Carvedilol,0.0,4,0,Cardiovascular agents,21
+DB01592,0.04,False,26091,5,#b4e2ee,1.12,Iron (II) Sulfate,0.02,3,0,Nutritional Products,25
+DB00540,0.09,False,23651,5,#c059a2,1.3,Nortriptyline,0.0,0,2,Psychotherapeutic agents,25
+DB00695,0.04,False,122303,5,#ee262c,1.31,Furosemide,0.05,1,3,Cardiovascular agents,25
+DB01016,0.12,False,240106,5,#f47a2b,2.29,Glyburide,0.0,4,0,Metabolic agents,25
+DB00829,0.09,False,219439,5,#976fb0,1.12,Diazepam,0.05,2,6,CNS agents,25
+DB00458,0.07,False,49107,5,#c059a2,1.31,Imipramine,0.01,0,2,Psychotherapeutic agents,25
+DB01120,0.12,False,80036,5,#f47a2b,1.64,Gliclazide,0.0,4,0,Metabolic agents,25
+DB00321,0.08,False,233767,5,#c059a2,1.47,Amitriptyline,0.0,0,2,Psychotherapeutic agents,25
+DB00199,0.01,False,132,5,#66c059,0.2,Erythromycin,0.18,2,6,Anti-infectives,25
+DB00783,0.01,True,5678,4,#f2ea25,0.57,Estradiol,0.0,2,1,Hormones,34
+DB00641,0.02,False,247424,4,#f47a2b,1.07,Simvastatin,0.0,1,5,Metabolic agents,34
+DB00661,0.04,False,403,4,#ee262c,1.11,Verapamil,0.01,4,0,Cardiovascular agents,34
+DB00286,0.01,True,4966,4,#f2ea25,0.58,Estrogens Conj.,0.0,2,1,Hormones,34
+DB00537,0.01,False,1235,4,#66c059,0.35,Ciprofloxacin,0.21,3,0,Anti-infectives,34
+DB00916,0.0,False,273,3,#66c059,0.17,Metronidazole,0.16,0,4,Anti-infectives,39
+DB01118,0.02,False,9247,3,#ee262c,1.4,Amiodarone,0.0,1,5,Cardiovascular agents,39
+DB01235,0.01,False,1956,3,#976fb0,0.97,Levodopa,0.03,3,0,CNS agents,39
+DB01234,0.03,False,31631,3,#f2ea25,0.24,Dexamethasone,0.0,4,1,Hormones,39
+DB00717,0.0,True,1535,3,#f2ea25,0.73,Norethisterone,0.0,2,1,Hormones,39
+DB00741,0.01,False,354,3,#f2ea25,0.06,Hydrocortisone,0.2,4,1,Hormones,39
+DB00367,0.0,True,1406,3,#f2ea25,0.79,Levonorgestrel,0.0,2,1,Hormones,39
+DB00603,0.0,False,1185,3,#f2ea25,1.06,Medroxyproges. Ac.,0.0,2,1,Hormones,39
+DB00451,0.01,False,88235,3,#f2ea25,1.15,Levothyroxine,0.0,1,3,Hormones,39
+DB00338,0.05,False,970883,3,#6c8b37,0.85,Omeprazole,0.0,2,6,Gastrointestinal agents,39
+DB00158,0.0,False,855,2,#b4e2ee,0.5,Folic acid,0.0,2,1,Nutritional Products,49
+DB01068,0.09,False,1448910,2,#976fb0,0.42,Clonazepam,0.0,2,6,CNS agents,49
+DB00999,0.0,False,26111,2,#ee262c,0.69,Hydrochlorothiazide,0.0,1,3,Cardiovascular agents,49
+DB01059,0.01,False,1334,2,#66c059,0.29,Norfloxacin,0.0,3,0,Anti-infectives,49
+DB01060,0.0,False,2555,2,#66c059,0.3,Amoxicillin,0.0,2,1,Anti-infectives,49
+DB00550,0.01,False,1576,2,#f2ea25,0.87,Propylthiouracil,0.0,1,3,Hormones,49
+DB00766,0.0,False,362,2,#66c059,0.23,Clavulanate,0.0,2,1,Anti-infectives,49
+DB00586,0.01,False,523,2,#976fb0,0.09,Diclofenac,0.03,1,7,CNS agents,49
+DB01197,0.0,False,1530,1,#ee262c,0.18,Captopril,0.0,0,4,Cardiovascular agents,57
+DB00359,0.01,False,31,1,#66c059,0.51,Sulfadiazine,0.0,2,1,Anti-infectives,57
+DB01233,0.0,False,333,1,#6c8b37,0.11,Metoclopramide,0.0,3,0,Gastrointestinal agents,57
+DB00207,0.0,False,117,1,#66c059,0.07,Azithromycin,0.0,1,3,Anti-infectives,57
+DB00316,0.0,False,25150,1,#976fb0,0.22,Acetaminophen,0.0,1,3,CNS agents,57
+DB00630,0.01,False,25168,1,#f47a2b,0.04,Alendronate,0.0,1,7,Metabolic agents,57
+DB00381,0.0,False,12767,1,#ee262c,0.34,Amlodipine,0.0,1,5,Cardiovascular agents,57
+DB00421,0.02,False,54085,1,#ee262c,0.55,Spironolactone,0.0,1,3,Cardiovascular agents,57
+DB00422,0.02,False,905,1,#976fb0,0.24,Methylphenidate,0.0,0,2,CNS agents,57
+DB00440,0.0,False,784,1,#66c059,0.16,Trimethoprim,0.0,2,1,Anti-infectives,57
+DB00934,0.01,False,2147,1,#c059a2,0.23,Maprotiline,0.0,4,0,Psychotherapeutic agents,57
+DB00477,0.0,False,6090,1,#976fb0,0.33,Chlorpromazine,0.0,4,0,CNS agents,57
+DB00810,0.13,False,151519,1,#976fb0,0.7,Biperiden,0.0,0,4,CNS agents,57
+DB00798,0.02,False,157,1,#66c059,0.12,Gentamicin,0.0,1,3,Anti-infectives,57
+DB00584,0.0,False,7640,1,#ee262c,0.16,Enalapril,0.0,0,4,Cardiovascular agents,57
+DB00684,0.0,False,249,1,#ffe5cc,0.08,Tobramycin,0.0,1,3,Topical Agents,57
+DB00678,0.0,False,6231,1,#ee262c,0.21,Losartan,0.0,0,4,Cardiovascular agents,57
+DB00668,0.02,False,2,1,#4da9df,0.0,Epinephrine,0.0,5,8,Respiratory agents,57
+DB00437,0.01,False,9834,1,#f47a2b,0.46,Allopurinol,0.0,1,3,Metabolic agents,57
